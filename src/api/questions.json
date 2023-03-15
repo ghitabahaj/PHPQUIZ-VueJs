@@ -1,0 +1,23 @@
+[
+    {
+      "text": "What does PHP stand for?",
+      "options": [
+        "Personal Hypertext Processor",
+        "PHP: Hypertext Preprocessor",
+        "Private Hypertext Programming",
+        "Public Hypertext Processor"
+      ],
+      "answer": 1
+    },
+    {
+      "text": "What does the PHP function `echo` do?",
+      "options": [
+        "Outputs a message to the browser",
+        "Executes a shell command",
+        "Returns a value from a function",
+        "None of the above"
+      ],
+      "answer": 0
+    }
+  
+  ]
